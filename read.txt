@@ -1,7 +1,7 @@
 Research and Development
   - Penelitian Mengenai Design Website baik Front dan Back End data
   - Semua File Project PEmbuatan akan disimpan di Repository disini
-  - Update juga ke platforms social media
+  - Update juga ke platforms social media (Optional)
   - Merancang Management File penelitian dan Pengembangan
   - Kedepannya Repository ini akan di Open-Source sebagai Bahan Pembelajaran dan sharing
   - Dalam Melakukan Penelitian dan PEngembangan Penting untuk terarah konsepnya agar terManajemen dengan baik
