@@ -4,3 +4,4 @@ Research and Development
   - Update juga ke platforms social media
   - Merancang Management File penelitian dan Pengembangan
   - Kedepannya Repository ini akan di Open-Source sebagai Bahan Pembelajaran dan sharing
+  - Dalam Melakukan Penelitian dan PEngembangan Penting untuk terarah konsepnya agar terManajemen dengan baik
